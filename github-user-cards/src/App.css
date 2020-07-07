@@ -26,3 +26,16 @@ a {
 
   background-color: white;
 }
+
+.followers-list{
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: space-evenly;
+}
+
+.followers-list h4{
+  font-size: 1.5rem; 
+}
+.follower-card{
+  margin: 0 0 2%; 
+}
